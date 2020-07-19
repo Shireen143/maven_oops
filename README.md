@@ -1,2 +1,2 @@
-# Keertana-EpamTask5-ExceptionsLogging
+# EpamTask5-ExceptionsLogging
 Exceptions and Logging
